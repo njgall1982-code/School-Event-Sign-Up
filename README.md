@@ -2,7 +2,7 @@
 
 > **Live Demo:** [https://st-paul-sign-up.web.app/](https://st-paul-sign-up.web.app/)
 > 
-> **Recruiter Account:** Use `recruiter@example.com` / `StPaulSecured2026!` to view the Dashboard and Allocation Manager.
+> **Recruiter Account:** Use `recruiter@example.com` / `DemoSecured2026!` to view the Dashboard and Allocation Manager.
 
 *A PM-led solution to the "First-Come, First-Served" problem in school volunteer management.*
 
